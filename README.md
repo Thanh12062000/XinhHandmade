@@ -10,16 +10,16 @@ Thành viên nhóm Gồm:
 
 
 Phân công Nhiệm vụ:
-Thành: Các giao diện:
+- Thành: Các giao diện:
         - Home
         - Blog
         - Blog-default
         - Quản trị: Gồm 16 giao diện con: Bảng điều khiển, sản phẩm, Thống kê, Đăng nhập, Đăng kí, trang 404, tiện ích, Thành phần,..
        Tạo và quản lí Github
-Như: Các giao diện:
+- Như: Các giao diện:
       - Giỏ hàng
       - Màn hình đăng nhập
-Duyên: Các giao diện:
+- Duyên: Các giao diện:
       - Sản phẩm
       - Thanh toán
       - Chi tiết Sản phẩm
